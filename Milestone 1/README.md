@@ -38,33 +38,6 @@ Develop an AI-powered Employee Wellness Management platform that promotes workpl
 
 ---
 
-## UI Screens
-
-### Home Page
-
-Displays the landing page with project information and navigation options.
-
-![Home Page](images/home.png)
-
-### Registration Page
-
-Allows new users to create an account using Email OTP verification.
-
-![Registration Page](images/register.png)
-
-### Login Page
-
-Provides secure login access for registered users.
-
-![Login Page](images/login.png)
-
-### Forgot Password Page
-
-Allows users to reset their password securely through Email OTP verification.
-
-![Forgot Password](images/forgot_password.png)
-
----
 
 ## Project Structure
 
